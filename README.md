@@ -11,7 +11,7 @@ This project is a hand-gesture controlled quiz application developed with OpenCV
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mayankgupta1754/hand-gesture-quiz-app.git
+    git clone https://github.com/Mayankgupta1754/AI-Project-computer-vision-.git
     cd hand-gesture-quiz-app
     ```
 2. Install dependencies:
