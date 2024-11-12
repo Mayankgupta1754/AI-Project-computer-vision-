@@ -12,7 +12,7 @@ This project is a hand-gesture controlled quiz application developed with OpenCV
 1. Clone the repository:
     ```bash
     git clone https://github.com/Mayankgupta1754/AI-Project-computer-vision-.git
-    cd hand-gesture-quiz-app
+    cd AI-Project-computer-vision-
     ```
 2. Install dependencies:
     ```bash
@@ -34,7 +34,7 @@ This project is a hand-gesture controlled quiz application developed with OpenCV
 ## Usage
 1. Run the script:
     ```bash
-    python quiz_app.py
+    python main.py
     ```
 2. **Interface Controls**:
    - **Answering Questions**: Hover over the answer box and hold the index finger near the thumb to select.
